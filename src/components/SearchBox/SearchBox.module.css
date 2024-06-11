@@ -1,14 +1,10 @@
-.name {
-  font-size: 23px;
-  margin-bottom: 5px;
+.searchBox {
+    display: flex;
+    flex-direction: column;
+    width: 318px;
+    padding: 0;
+    margin-bottom: 32px;
 }
-.input {
-  width: 328px;
-  height: 30px;
-  border: 1px solid black;
-  border-radius: 5px;
-  padding-left: 10px;
-  font-size: 23px;
-  margin-bottom: 20px;
-  background-color: transparent;
+.label {
+    margin-bottom: 6px;
 }
